@@ -21,10 +21,6 @@
     </div>
     <div class="dropdown-body-wrapper" v-else>
       <custom-dropdown />
-      <custom-dropdown />
-      <custom-dropdown />
-      <custom-dropdown />
-      <custom-dropdown />
     </div>
   </div>
 </template>
